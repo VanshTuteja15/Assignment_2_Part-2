@@ -65,7 +65,7 @@ public interface StackADT<E>
     public void clear();
 
     /**
-     * Returns {@code true} if this stack contains no elements.
+     * Returns {@code true} if this stack co    ntains no elements.
      *
      * <p>Pre-condition: None.</p>
      * <p>Post-condition: The stack remains unchanged.</p>
